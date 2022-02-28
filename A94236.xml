@@ -1,0 +1,1227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Doctrine and instructions: or, A catechism Touchign [sic], many the most weighty points of divinity, viz. The original of the scriptures, the nature of God, man's capacity of eternal rewards, his past happiness, present misery in himself, the all-sufficiency of Christ, the sweetness of providence, terms of salvation, way and causes of justification, faiths influence, sincerity of obedience, natures weakness, its renovation, the moment hereof, the improvement, of the Word, infants in covenant, greatly advantaged thereby, to be baptized, right participation of the Lords Supper, helps for prayer, Heavens bliss, Hell's woe, judgments terror, and preparation for it. By Stephen Scandrett Minister of the Gospel in [...]hil.</title>
+            <author>Scandrett, Stephen, 1631?-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94236</idno>
+            <idno type="STC">Wing S818</idno>
+            <idno type="STC">ESTC R229797</idno>
+            <idno type="EEBO-CITATION">99895521</idno>
+            <idno type="PROQUEST">99895521</idno>
+            <idno type="VID">152977</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152977)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2338:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Doctrine and instructions: or, A catechism Touchign [sic], many the most weighty points of divinity, viz. The original of the scriptures, the nature of God, man's capacity of eternal rewards, his past happiness, present misery in himself, the all-sufficiency of Christ, the sweetness of providence, terms of salvation, way and causes of justification, faiths influence, sincerity of obedience, natures weakness, its renovation, the moment hereof, the improvement, of the Word, infants in covenant, greatly advantaged thereby, to be baptized, right participation of the Lords Supper, helps for prayer, Heavens bliss, Hell's woe, judgments terror, and preparation for it. By Stephen Scandrett Minister of the Gospel in [...]hil.</title>
+                  <author>Scandrett, Stephen, 1631?-1706.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Parkhust at the Three Miles and Crown near M[ercers] Chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>O copy trimmed affecting page numbering.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152977:1" rendition="simple:additions"/>
+            <p>
+               <hi>Doctrine</hi> and <hi>Inſtructions:</hi> OR, A CATECHISM.</p>
+            <p>TOUCHING, Many the moſt weighty, Points of Divinity, <hi>Viz.</hi>
+            </p>
+            <p>The Original of the Scriptures, the Nature of God, Man's capacity of Eternal Rewards, his paſt Happi<g ref="char:EOLhyphen"/>neſs, preſent Miſery in himſelf, the All-ſufficiency of Chriſt, the Sweetneſs of Providence, Terms of Sal<g ref="char:EOLhyphen"/>vation, way and cauſes of Juſtification, Faiths influ<g ref="char:EOLhyphen"/>ence, ſincerity of Obedience, Natures Weakneſs, its Renovation, the moment hereof, the improvement, of the Word, Infants in Covenant, greatly advanta<g ref="char:EOLhyphen"/>ged thereby, to be Baptized, right participation of the Lord s Supper, helps for Prayer, Heavens Bliſs, Hells Woe, Judgments Terror, and preparation for it.</p>
+            <p>By <hi>Stephen Scandrett</hi> Miniſter of the Goſpel in <hi>Haverhil.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Deut. 6.6.</hi>
+               </bibl>
+               <p>And theſe words which I command thee this day ſhall be in thy heart.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Deut. 7.</hi>
+               </bibl>
+               <p>And thou ſhall teach them diligently unto thy Children, and ſhall talk of them when thou ſitteſt in thine Houſe, and when thou walkeſt by the way, and when thou lyeſt down, and when thou riſeſt up.</p>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Clem. Alex.</p>
+               <bibl>
+                  <hi>Rom. 10.14.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Parkhuſt</hi> at the Three Bibles and <hi>Crown</hi> near <hi>Mercers Chappel</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="doctrine">
+            <pb facs="tcp:152977:2"/>
+            <pb facs="tcp:152977:2"/>
+            <head>The Original of <hi>Scripture.</hi> Nature of <hi>God.</hi>
+            </head>
+            <p n="1">1. Qu. <hi>HOw doth it appear that the</hi> Scripture <hi>are the Word of God?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Anſw.</hi> 1. From the holineſs of the Commands. <hi>Pſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 119, 140.</item>
+               <item>2. From the ſublimity of the Doctrine, 1. <hi>Jo.</hi> 5, 7<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Jo.</hi> 1.1.</item>
+               <item>3. From the majeſty of the Style, <hi>Deut.</hi> 32.22, 23</item>
+               <item>4. From the fulfilling of the Propheſies, <hi>Ac.</hi> 2.30, 31<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>5. From the excellency of the Scope, God's glory Man's ſalvation. <hi>Eph.</hi> 1.5, 6. <hi>Jo.</hi> 20, 31.</item>
+               <item>6. From the mighty power it hath upon the Con<g ref="char:EOLhyphen"/>ſcience. <hi>Act.</hi> 2.41.</item>
+               <item>7. From the integrity of the Penmen. 2 <hi>Pet.</hi> 1.21.</item>
+               <item>8. From the Divine miracles they wrought. <hi>Act.</hi> 4.16.</item>
+               <item>9. From the prophaneſs of the Scriptures enemies. <hi>Jer.</hi> 36, 23, 26.</item>
+               <item>10. From the care of Divine providence in their preſervation. 2 <hi>Chro.</hi> 34, 15. 1 <hi>Pet.</hi> 1.4, 5.</item>
+            </list>
+            <p n="2">2. Q. <hi>What do the Scriptures teach concerning God?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. That there are three diſtinct perſons. <hi>Mat.</hi> 27<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Heb.</hi> 1.3. 1 <hi>Cor.</hi> 12, 11. the Father of himſelf, <hi>Ro.</hi> 11<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 35. The Son begotten of the Father <hi>Heb.</hi> 1.6. The ho<g ref="char:EOLhyphen"/>ly Ghoſt proceeding from the Father. <hi>Jo.</hi> 15, 26. And from the Son. <hi>Gal.</hi> 4.6.</item>
+               <item>2. That the whole God-head undivided is in each perſon ſeverally. <hi>Col.</hi> 2.9.</item>
+               <item>3. That the three Perſons are equal. <hi>Mat.</hi> 28, 19. One and the ſame God. <hi>Deut.</hi> 6.4. Eternal. <hi>Mic</hi> 5.2.
+<pb facs="tcp:152977:3"/>
+                  <hi>Heb.</hi> 9.14. Almighty. <hi>Rev.</hi> 1.8. <hi>Zach.</hi> 4.7. Knowing <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> things. <hi>Rev.</hi> 2.23. 1 <hi>Cor.</hi> 2.10, 11. Moſt faithful. <hi>Re.</hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. <hi>Act.</hi> 1, 16. Moſt merciful. <hi>Mat.</hi> 9.2. <hi>Gen.</hi> 6.3. And <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſt Juſt. <hi>Exod.</hi> 34.7. <hi>Act.</hi> 17.31. <hi>Act.</hi> 5, 4, 5.</item>
+               <item>4. That the Son is God and Man. <hi>Heb.</hi> 10, 12. The <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ther and the Holy-Ghoſt, God only.</item>
+            </list>
+            <p n="3">3. Q. <hi>How doth it appear the Son is God?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. He is called God. <hi>Act.</hi> 26.28.</item>
+               <item>2. He is called <hi>Jehovah. Zach.</hi> 2.8.</item>
+               <item>3. He reproved not <hi>Thomas</hi> for called him God. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 20.28.</item>
+               <item>4. He hath divine Attributes.</item>
+               <item>5. He hath divine worſhip. 1 <hi>Cor.</hi> 1, 2.</item>
+               <item>6. He created and preſerves all. <hi>Heb.</hi> 1, 2, 3. <hi>Col.</hi> 1.16, 17.</item>
+            </list>
+            <p n="4">4. Q. <hi>How doth it appear that the H. G. is God?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. He is called God. <hi>act.</hi> 5.3, 4. 2 <hi>Sam.</hi> 25.2, 3.</item>
+               <item>2. He hath divine Attributes.</item>
+               <item>3. He created us. <hi>Job</hi> 33.4.</item>
+               <item>4. He hath divine worſhip. <hi>Mat.</hi> 28.19.</item>
+            </list>
+            <p n="5">5. Q. <hi>Doth the Soul ceaſe to be when we dye, or doth live for ever?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. The Soul doth never ceaſe to be, but lives for <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er, for Man hath a great preeminency above a Beaſt. <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa.</hi> 8.6.</item>
+               <item>2. The people of God have had aſſurance to be hap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> after death. 2 <hi>Cor.</hi> 5, 8. <hi>Act.</hi> 7.59.</item>
+               <item>3. The deſires of the Godly, and fears of the wick<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſpeake this truth, graven on every man's heart. <hi>Heb.</hi> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 26, 27. 2 <hi>Cor.</hi> 5, 4.</item>
+               <item>4. If the Soul did ceaſe to be at death, the ſuffering <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ints are of all men moſt miſerable. 1 <hi>Cor.</hi> 15.19.</item>
+               <pb facs="tcp:152977:3"/>
+               <item>5. The Righteous God records all our actions, go and bad, and will have a day to reward his ſufferi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> people, and puniſh his proſperous enemies. <hi>Mal.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 16, 17. <hi>Deut.</hi> 32.34, 35.</item>
+               <item>6. The ſouls of the godly and wicked departed, a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> now living. <hi>Mat.</hi> 22, 32. <hi>Rev.</hi> 6.9. 1 <hi>Pet.</hi> 3.19.</item>
+               <item>7. God hath promiſed eternal happineſs to his peo<g ref="char:EOLhyphen"/>ple, and threatned eternal miſery to the wicked. 1 <hi>Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 1.4. <hi>Mar.</hi> 9.44. <hi>Rev.</hi> 14.11.</item>
+               <item>8. God hath promiſed the godly ſhall never dy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and threatned the wicked death ſhall fly from them. <hi>J<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 11, 26. <hi>Rev.</hi> 9.6.</item>
+            </list>
+            <p n="6">6. Q. <hi>Shall there be a reſurrection of the Body?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> Yes; 1. with the Body men ſuffer for God an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſin againſt him, therefore in body ſhall they be accor<g ref="char:EOLhyphen"/>dingly rewarded. <hi>Iſa.</hi> 3.10, 11.</item>
+               <item>2. God's Covenant to be his peoples, God is ever laſting. <hi>Mat.</hi> 22.31.</item>
+               <item>3. The Reſurrection, is the hope of the Godly which hope ſhall never make them aſhamed. <hi>Act.</hi> 24<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 15. <hi>Rom.</hi> 55.</item>
+               <item>4. The body is Chriſt's purchaſe. 1 <hi>Cor.</hi> 6.20.</item>
+               <item>5. The Reſurrection is the will of the Father. <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 6.39.</item>
+               <item>6. Chriſt is riſen. 1 <hi>Cor.</hi> 15.14, 15.</item>
+               <item>7. Death's conqueſt for us, is Chriſt's expectation. <hi>Heb.</hi> 10, 13.</item>
+               <item>8. Chriſt himſelf undertakes for the reſurrection o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Believers. <hi>Jo.</hi> 6.40.</item>
+               <item>9. <hi>Enoch</hi> and <hi>Elias</hi> are in Heaven bodily. <hi>Heb.</hi> 11 5. 2 <hi>King.</hi> 2.11.</item>
+            </list>
+            <p n="7">
+               <pb facs="tcp:152977:4"/>
+7. Q <hi>In what ſtate did God make man at firſt?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. His body was not ſubject to pain.</item>
+               <item>2. Nor to dye. <hi>Gen.</hi> 3.19.</item>
+               <item>3. He was Lord over other creatures. <hi>Gen.</hi> 2.19.</item>
+               <item>4. He was placed in Paradiſe. <hi>Gen.</hi> 2.8.</item>
+               <item>5. His labor was without Toyl. <hi>Gen.</hi> 3.19.</item>
+               <item>6. God entred into a covenant of life with him, up<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> condition of perfect, perpetual obedience. <hi>Gen.</hi> 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Rom.</hi> 5.14.</item>
+               <item>7. God gave him the Tree of Life, a pledge of this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>venant. <hi>Gen.</hi> 2.9.16.</item>
+               <item>8. Man was able to perform the condition. <hi>Ge.</hi> 1.27.</item>
+               <item>9. He enjoyed ſweet communion with God. <hi>Gen.</hi> 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>10. But was lyable to fall, and being left to the free<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m of his own will, ſo he did. <hi>Gen.</hi> 3.6.</item>
+            </list>
+            <p n="8">8. Q. <hi>In what ſtate are we now born ſince the fall?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. We are born guilty of <hi>Adam's</hi> firſt ſin. <hi>Rom.</hi> 12, 19.</item>
+               <item>2. Deſtitute of God's favor. <hi>Eph.</hi> 2, 3.</item>
+               <item>3. Deſtitute of God's image. <hi>Gen.</hi> 5.3. <hi>Rom.</hi> 7.18.</item>
+               <item>4. Under the ſentence of condemnation. <hi>Ro.</hi> 5.16.</item>
+               <item>5. Prone to all evil. <hi>Pſa.</hi> 58.3.</item>
+               <item>6. Unable to do the leaſt ſpiritual good. <hi>Luk.</hi> 6.43.</item>
+               <item>7. Our body is ſubject to pain, and all diſeaſes, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ath it ſelf.</item>
+               <item>8. Our ſoul is ſubject to terrors of conſcience. <hi>Heb.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.15.</item>
+               <item>9. Our body and ſoul is ſubject to God's wrath e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y hour. <hi>Jo.</hi> 3.36.</item>
+               <item>10. Without a Saviour we are utterly unable to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p our ſelves or eſcape.</item>
+            </list>
+            <p n="9">
+               <pb facs="tcp:152977:4"/>
+9. Q. <hi>How doth it appear that without a Savio<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we could not help our ſelves or eſcape the wrath of God?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. The fallen Angels cannot eſcape it, therefo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> neither could we without a Saviour. 2 <hi>Pet.</hi> 2, 4.</item>
+               <item>2. <hi>Adam</hi> without a Saviour muſt needs have periſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therefore ſo ſhould we. <hi>Gen.</hi> 3.8.</item>
+               <item>3. The Law or covenant of works cannot juſti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> any tranſgreſſor, <hi>Rom.</hi> 8, 3.</item>
+               <item>4. God who hath threatned us, <hi>Gen.</hi> 2.17. and u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on our fall accordingly hath condemned us, <hi>Ro.</hi> 5, 1<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cannot lye: therefore without a Saviour bearing t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Curſe for us, we muſt needs have born it our ſelv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for ever, <hi>Gal.</hi> 3, 13.</item>
+               <item>5. We being God's creatures, finite beings, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſinners; can never do or ſuffer any thing ſufficient <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſatisfie the infinite Juſtice of God offended, to turn <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> way his infinite wrath incenſed, or to redeem our l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Souls from infinite Miſery deſerved; that for our o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſakes God ſhould diſcharge us, <hi>Iſa.</hi> 40.16, 17. <hi>Ro.</hi> 5<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>6. We cannot redeem a Brother from tempo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> death, <hi>Pſa.</hi> 49.7, 8. much leſs our own loſt Souls fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eternal.</item>
+               <item>7. We continually offend, and cannot but increa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> our ſcore, that we might haſten our Ruine; ſo far a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we from being able to purchaſe our own ſalvation. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 7.20.</item>
+               <item>8. Our very beſt duties are ſtained, and need a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>viour for their pardon and acceptation; ſo far are the from being able to make amends for our offences, <hi>N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 13, 22.</item>
+               <item>9. God did not ſend his Son without need in reſp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb facs="tcp:152977:5"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> us, to endure ſcourgings and ſo ſharp a death for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Redemption, <hi>Gal.</hi> 2.21.</item>
+            </list>
+            <p n="10">10. Q. <hi>How doth it appear that Chriſt is able to ſave us?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. The H. G. in the Scriptures and in Believers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earts, doth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtifie that Chriſt is able to ſave us, <hi>Heb</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 25. <hi>Rom.</hi> 8.33, 34.</item>
+               <item>2. He is the Saviour that ſhould come into the world; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r is there any other, <hi>Mat.</hi> 16, 16. <hi>Jo.</hi> 6.36, 37, 39. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct.</hi> 2.30.</item>
+               <item>3. He is a Saviour of the Fathers own providing, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om.</hi> 3.25. <hi>Iſa.</hi> 42.1. <hi>Jo.</hi> 1.19.</item>
+               <item>4. We find the firſt <hi>Adam</hi> could undo us, and can<g ref="char:EOLhyphen"/>not the ſecond much more ſave us, <hi>Rom.</hi> 5.15, 16, 17.</item>
+               <item>5. God did graciouſly lay our ſins on him, that his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ghteouſneſs might be imputed unto us, 2 <hi>Cor.</hi> 5.21.</item>
+               <item>6. Chriſt undertook the work of Redemption with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>light, <hi>Heb.</hi> 10.6, 7. and finiſht it, <hi>Jo.</hi> 17.4. fulfilling <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> righteouſneſs, <hi>Mat.</hi> 3.15. and offering himſelf a Sa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fice for us, 1 <hi>Cor.</hi> 5.7. that no more need be done for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Redemption, either by himſelf or any other, <hi>Heb.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 8, 10, 12, 14.</item>
+               <item>7. He is God bleſſed for ever, that hath done and ſuf<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed all this for us, <hi>Mat.</hi> 1.23. <hi>Rom.</hi> 3.21. <hi>Act.</hi> 20.28. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re is therefore an infinite worth in his obedience <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſacrifice.</item>
+               <item>8. The Father did delight in his perſon, <hi>Mat.</hi> 3.17. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſatisfied with what he did, <hi>Jo.</hi> 8.29. and with what ſuffered for us, <hi>Eph.</hi> 5.2. that he hath raiſed him from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Dead and received him to Glory, <hi>Eph.</hi> 1.20.</item>
+               <item>9. Chriſt doth now expect his purchaſe. <hi>He.</hi> 13.13.</item>
+               <item>10. The Angels believe God's good will towards <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <hi>Lu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 2, 11, 13, 14. on the account of Chriſt.</item>
+               <pb n="9" facs="tcp:152977:5"/>
+               <item>11. The Father puniſheth on Chriſt's account to re<g ref="char:EOLhyphen"/>new the hearts of ſinners, forgive their ſins, and ſave their Souls, <hi>Heb.</hi> 10.14, 16, 17. <hi>Iſa.</hi> 49.6.</item>
+            </list>
+            <p n="11">11. Q. <hi>What reaſon have we to be reconciled to the providence of God, or his governing and ordering of all things?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. There is a neceſſity that ſome Being or other ſhould order and govern all things, <hi>Rev.</hi> 12.7.</item>
+               <item>2. There is no creature able or fit to do it, <hi>Job</hi> 4.18.</item>
+               <item>3. It is moſt righteous and meet, that he who made all, ſhould diſpoſe of all, <hi>Iſa.</hi> 45.9.</item>
+               <item>4. The Lord is moſt holy, and will wrong no man, <hi>Gen.</hi> 18.25.</item>
+               <item>5. It is good for us, wicked men and Devils cannot carry on things as they would have them, <hi>Ac.</hi> 4.27, 28.</item>
+               <item>6. And that he who gave Chriſt for us manageth all things, <hi>Jo.</hi> 5.17.</item>
+               <item>7. He will be good to him that waiteth for him, to the ſoul that ſeeketh him, <hi>Lam.</hi> 3.25.</item>
+               <item>8. He is full of love to the Upright, and will order all for their good, <hi>Pſa.</hi> 11.7.</item>
+               <item>9. He is unchangeable in his kindneſs and good will to his people, 1 <hi>Sam.</hi> 12, 22.</item>
+               <item>10. He is moſt wiſe and knows how to order all for the beſt, 2 <hi>Pet.</hi> 29.</item>
+               <item>11. He is moſt mighty and able to reſtrain evil, and bring good to paſs, <hi>Iſa.</hi> 43.13.</item>
+               <item>12. He is moſt faithful to his word, <hi>Pſa.</hi> 25.10.</item>
+               <item>13. He ſets himſelf againſt none but the ungodly and impenitent, <hi>Exod.</hi> 34.6, 7.</item>
+            </list>
+            <p n="12">12. Q. <hi>
+                  <g ref="char:V">Ʋ</g>pon what terms is God willing to ſave us?</hi>
+            </p>
+            <pb n="10" facs="tcp:152977:6"/>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. If we truly Repent, that is, heartily grieve for our ſins, <hi>Pſ.</hi> 51, 17. ingeniouſly confeſs, 1 <hi>Jo.</hi> 1, 9. and throughly turn from them to the Lord, <hi>Ez.</hi> 18.21, 22.</item>
+               <item>2. If we unfeignedly believe in Chriſt, <hi>Joh.</hi> 3.16. and in God through him, 1 <hi>Pet.</hi> 1.20, 21.</item>
+               <item>3. If we ſincerely obey the Lord, <hi>Exod.</hi> 19.5.</item>
+            </list>
+            <p n="13">13. Q. <hi>Muſt not we deſign and labor, by keeping the Commandments, to ſatisfie God's juſtice, and purchaſe forgiveneſs and favor with him?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. We muſt by Faith, truſt in Chriſt's righte<g ref="char:EOLhyphen"/>ouſneſs as that which hath already ſatisfied God's ju<g ref="char:EOLhyphen"/>ſtice, and purchaſed forgiveneſs and favor with God, <hi>Philip.</hi> 3, 3.</item>
+               <item>2. If we have not Faith to truſt in Chriſt's righte<g ref="char:EOLhyphen"/>ouſneſs, we muſt in the uſe of all means ſeek it of God's free grace, <hi>Cant.</hi> 1.4.</item>
+               <item>3. Obteining Faith, we muſt obey God's command<g ref="char:EOLhyphen"/>ments, to teſtifie our love to God in Chriſt for his grace towards us, <hi>Iſa.</hi> 6.8.</item>
+               <item>4. And to pleaſe God, <hi>Col.</hi> 1.10.</item>
+               <item>5. And to teſtifie our ſubjection to Chriſt, <hi>Pſa.</hi> 2.12.</item>
+               <item>6. And to glorifie God, <hi>Mat.</hi> 5.16.</item>
+               <item>7. And to make ſure our own ſalvation, 1 <hi>Ti.</hi> 6.18, 19.</item>
+               <item>8. But we muſt not by our Obedience, think to ſa<g ref="char:EOLhyphen"/>tisfie God's juſtice, and purchaſe forgiveneſs and favor with God. For 1. Nothing can ſatisfie God's juſtice and purchaſe forgiveneſs and favor with God, but a righteouſneſs which fully anſwers the threats of the Law, for we are ſinners, <hi>Gal.</hi> 2.20. which fully anſwers the commands of the Law, for we are humane Crea<g ref="char:EOLhyphen"/>tures, <hi>Mar.</hi> 12.30, 31. which is of infinite value, that it
+<pb n="11" facs="tcp:152977:6"/>might bear proportion to the infinite evil that is in ſin, the infinite bleſſedneſs that is to be recovered, and the infinite miſery from which there is to be deliverance <hi>Iſa.</hi> 40.16 and which God hath appointed to that end, <hi>Heb.</hi> 10.5.</item>
+               <item>2. Our beſt Obedience comes far ſhort of all this.</item>
+               <item>3. Chriſt's righteouſneſs comes up to all this, <hi>Gal.</hi> 3.13. <hi>Mat.</hi> 3.15. <hi>Act.</hi> 20.28. <hi>Heb.</hi> 10.9. and the Father graciouſly accepts it for us, <hi>Job</hi> 33.24.</item>
+               <item>4. For us to go about our own obedience to ſatisfy God's juſtice and purchaſe forgiveneſs and favor with him, is to have too high thoughts of our ſelves, <hi>Lu.</hi> 18.11. too mean thoughts of God, <hi>Job</hi> 22.2, 3. to deſpiſe Chriſts righteouſneſs, <hi>Heb.</hi> 10.29. to reject God's grace, <hi>Gal.</hi> 2.21. to undertake an impoſſible task, <hi>Ec<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leſ.</hi> 7.20. to loſe all, <hi>Rom.</hi> 9.31.</item>
+               <item>5. By faith to relye on Chriſt's righteouſneſs, as that which hath already ſatisfied God's juſtice for our ſins, and purchaſed forgiveneſs and favor with him; is to have a due eſteem of Chriſt s righteouſneſs, <hi>Phil.</hi> 3.8, 9. a due eſteem of God's grace, <hi>Gal.</hi> 2.21. to be tru<g ref="char:EOLhyphen"/>ly humble, <hi>Hab.</hi> 2.4. to obey the Goſpel, <hi>Jo.</hi> 6 29. to take a ſure way to Juſtification and Life, <hi>Mat.</hi> 16.18.</item>
+            </list>
+            <p n="14">14. Q. <hi>How are we Juſtified?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. The Father doth juſtifie, <hi>Ro.</hi> 8, 33. by impu<g ref="char:EOLhyphen"/>ting to us Chriſt's righteouſneſs, <hi>Ro.</hi> 5.19. and for the ſake thereof pardoning and accepting of us.</item>
+               <item>2. The Son doth juſtifie us, <hi>Act.</hi> 13.39. bringing in everlaſting Righteouſneſs, or obeying his Father unto death to ſatisfy his juſtice, &amp; purchaſe his favor for us.</item>
+               <item>3. The H.G. doth juſtify us, 1 <hi>Cor.</hi> 6, 11. by work<g ref="char:EOLhyphen"/>ing
+<pb n="12" facs="tcp:152977:7"/>faith in us, and helping us to apply Chriſt.</item>
+               <item>4. Free grace doth juſtifie us, <hi>Rom.</hi> 2.24. by provi<g ref="char:EOLhyphen"/>ding a ſurety for us, accepting faith for the condition of our intereſt in him, and giving faith and Chriſt tous.</item>
+               <item>5. The Goſpel doth juſtify us, by revealing, <hi>Ro.</hi> 1.16. and offering Chriſt to ſinners, <hi>Rev.</hi> 22.17. apply<g ref="char:EOLhyphen"/>ing and making over Chriſt to believers, 1 <hi>Pe.</hi> 1.20, 21. and being the Rule by which God will proceed in Judgement, <hi>Rom.</hi> 2.16.</item>
+               <item>6. Faith doth juſtify us, <hi>Ro.</hi> 3, 28. by embracing and truſting in Chriſt, &amp; ſo giving us an intereſt in his righ<g ref="char:EOLhyphen"/>teouſneſs, becauſe God hath made it the great condi<g ref="char:EOLhyphen"/>tion of the Goſpel.</item>
+               <item>7. Works do juſtify us, by being an evidence of, and help unto our Faith, <hi>Ja.</hi> 2.24.</item>
+            </list>
+            <p n="15">15. Q. <hi>What are the ſaving acts of a lively Faith?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. To believe what the Scripture ſpeaks concern<g ref="char:EOLhyphen"/>ing Chriſt, ſo as to truſt in him for Juſtification and Sal<g ref="char:EOLhyphen"/>vation. <hi>Gal.</hi> 2.16. Or to believe ſo as to receive Chriſt for juſtification and ſalvation, <hi>Joh.</hi> 1.12.</item>
+               <item>2. No act of a dead Faith is juſtifying or ſaving, <hi>Ja.</hi> 2.14. Not believing the truth concerning Chriſt, <hi>Act.</hi> 8.13. Not beleiving ſo as to truſt in him, <hi>Jo.</hi> 2.23. Not be<g ref="char:EOLhyphen"/>lieving ſo as to receive him, <hi>Luk.</hi> 8.13.</item>
+               <item>3. Faith is then lively when it not only believes what is revealed in the Word concerning Chriſt, ſo as to truſt in him and receive him for Juſtification and Salvation, but likewiſe ſo, as to prize him, 1 <hi>Pet.</hi> 2.7. Love God for him, 1 <hi>Ti.</hi> 1.15, 17. as to be thereby humble, <hi>Hab.</hi> 2.4. Purified, <hi>Act.</hi> 15.9. Sanctified, <hi>Act.</hi> 26.18. as to work by Love, <hi>Gal.</hi> 5.6. Overcome the World, 1 <hi>Jo.</hi> 5.4. be emboldened to appear for Chriſt, 2 <hi>Cor.</hi> 4.13.
+<pb n="13" facs="tcp:152977:7"/>as to do and ſuffer great things for God and Chriſt when called to it, <hi>Heb.</hi> 11.</item>
+            </list>
+            <p n="16">16. Q. <hi>What inducements have we to believe in Chriſt for Salvation?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. We are utterly loſt in our ſelves, <hi>Mat.</hi> 18.11.</item>
+               <item>2. None but Chriſt is able to ſave us, <hi>Jo.</hi> 6.68.</item>
+               <item>3. Chriſt is abundantly able to ſave us, <hi>Heb.</hi> 7.25.</item>
+               <item>4. We are graciouſly called and invited to him, <hi>Ma.</hi> 11.28.</item>
+               <item>5. He is freely offered to every one of us, <hi>Re.</hi> 22.17.</item>
+               <item>6. We are commanded to believe, 1 <hi>Jo.</hi> 3.23.</item>
+               <item>7. We have a promiſe that if we believe in Chriſt we ſhall not periſh, <hi>Jo.</hi> 3.16.</item>
+               <item>8. If believe not in Chriſt, we ſhall never partake of him, but periſh without remedy, <hi>Mar.</hi> 16, 16.</item>
+               <item>9. Other great ſinners have found favor with the Lord, <hi>Lu.</hi> 7.47. 1 <hi>Tim.</hi> 1.13.</item>
+               <item>10. We can never be holy, <hi>Heb.</hi> 11.6. nor ſtedfaſt with God, if we will not believe in Chriſt for Salva<g ref="char:EOLhyphen"/>tion, <hi>Heb.</hi> 3.12.</item>
+            </list>
+            <p n="17">17. Q. <hi>When do we ſincerely obey the Lord?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. When we are not falſe hearted with the Lord, <hi>Pſa.</hi> 51.6. 1 <hi>Chron.</hi> 12.33. <hi>Jer.</hi> 3.10.</item>
+               <item>2. When the Rule and Motive of our Obedience is the Lord's Command, <hi>Pſa.</hi> 119.5, 4.</item>
+               <item>3. When the principle of our Obedience is love to the Lord, <hi>Phillip.</hi> 1.16, 17.</item>
+               <item>4. When the end of our Obedience is to pleaſe the Lord, 2 <hi>Cor.</hi> 2.17.</item>
+               <item>5. When our Obedience is willing and hearty O<g ref="char:EOLhyphen"/>bedience, 2 <hi>Chr.</hi> 29.<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>Col.</hi> 2.23, 24.</item>
+               <pb n="14" facs="tcp:152977:8"/>
+               <item>6. When we are careful to frame our inward, as well as outward man, according to God's Word, <hi>Mat.</hi> 25.25.</item>
+               <item>7. When the bent of our heart is againſt every thing that is evil, and forevery thing we know the Lord requires of us, <hi>Pſ.</hi> 119.80, 128. 1 <hi>Chr.</hi> 29.19. 1 <hi>Kin.</hi> 9.4.</item>
+               <item>8. When though we have many failings yet the ge<g ref="char:EOLhyphen"/>neral Courſe and Tenor of our life is ſquared by the will of God, <hi>Pſa.</hi> 112.2, 3. <hi>Job</hi> 17.9. <hi>Jam.</hi> 1.8. 2 <hi>Chr.</hi> 15.17.</item>
+               <item>9. When we hold on in our obedience, <hi>Pſa.</hi> 112.2, 3. <hi>Jam.</hi> 1.8. deſpiſing baits that would entice us to de<g ref="char:EOLhyphen"/>ſtroy, <hi>Cant.</hi> 8.7. and welcoming croſſes we meet with in obeying, <hi>Act.</hi> 20, 23, 24.</item>
+               <item>10. When ſtill we have mean thoughts of our ſelves and fly to free grace and Chriſt's merits for accep<g ref="char:EOLhyphen"/>tance, knowing how ſhort we come in many things, <hi>Neh.</hi> 13.22. <hi>Heb.</hi> 11.4.</item>
+            </list>
+            <p n="18">18. <hi>Q. Are we able by the ſtrength of Nature to re<g ref="char:EOLhyphen"/>pent, believe, and ſincerely obey the Lord, or need we ſpe<g ref="char:EOLhyphen"/>cial renewing grace and ſtrength from God to help us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We need ſpecial Grace and Strength; For</p>
+            <list>
+               <item>1. That grace of Faith that ſaves us, is not from our ſelves, it is the gift of God, <hi>Eph.</hi> 2.8. and ſuch grace we need.</item>
+               <item>2. Regeneration is needful for every one of us, <hi>Jo.</hi> 3.3, 5. and this is a ſpecial work of God's Spirit.</item>
+               <item>3. God's promiſe of ſpecial renewing grace, <hi>Eze.</hi> 36.26 and of ſpecial ſtrength, <hi>Pſa.</hi> 110.3. are no pro<g ref="char:EOLhyphen"/>miſes of needleſs things.</item>
+               <item>4. God doth give ſpecial grace to aſſiſt herein, for
+<pb n="15" facs="tcp:152977:8"/>he gives more to the Elect, than he doth to others, <hi>Mat.</hi> 13.11.</item>
+               <item>5. None of us make our ſelves to differ, 1 <hi>Cor.</hi> 4.7. therefore we neither Repent, Believe, or ſincerely O<g ref="char:EOLhyphen"/>bey without ſpecial grace.</item>
+               <item>6. God's image being loſt by the Fall, <hi>Ro.</hi> 7.18. until we are renewed by grace, it cannot be, we ſhould have any might to do what's ſpiritually good, <hi>Rom.</hi> 9.16. <hi>Eph.</hi> 2.1. <hi>Jo.</hi> 6.44. <hi>Jer.</hi> 10.23. <hi>Rom.</hi> 8.7.</item>
+               <item>7. We cannot without ſpecial grace, ſo much as <hi>un<g ref="char:EOLhyphen"/>derſtand</hi> the good of ſpiritual things, 1 <hi>Cor.</hi> 2.14. much leſs can we will and embrace them.</item>
+               <item>8. Our corruptions in our natural ſtate are ſo ſtrong withſtanding againſt us, that without ſpecial grace we cannot do what is ſpiritually good, <hi>Jer.</hi> 13.23. <hi>Ro.</hi> 8.8.</item>
+               <item>9. We are by nature under Satan's power, <hi>Ep.</hi> 2.2. We need therefore the mighty arm of God, to ſet us free, <hi>Act.</hi> 26.18.</item>
+               <item>10. Whenever we ſeriouſly endeavor to return to God, we then find that by the ſtrength of Nature, we cannot, <hi>Jer.</hi> 31.18.</item>
+               <item>11. Even thoſe that have the advantage of renew<g ref="char:EOLhyphen"/>ing grace, find need of further aſſiſtance from God to do what's good, <hi>Cant.</hi> 14.2 <hi>Cor.</hi> 3.3. <hi>Gal.</hi> 5.17. <hi>Rom.</hi> 7.23.</item>
+               <item>12. They that are indeed enabled and ſo brought into a ſaving ſtate, aſcribe this to the ſpecial work of God, <hi>Tit.</hi> 3.5.</item>
+            </list>
+            <p n="19">19. <hi>Q. After what manner, and by what degrees are men ordinarily changed and renewed by the Spirit of God?</hi>
+            </p>
+            <pb n="16" facs="tcp:152977:9"/>
+            <list>
+               <item>A. 1. Uſually they are made to ſee their ſin and dan<g ref="char:EOLhyphen"/>ger as they never ſaw before, <hi>Act.</hi> 9.4.</item>
+               <item>2. Then they are filled with abiding fear of God's wrath, <hi>Act.</hi> 9.6.</item>
+               <item>3. They hear, and mark, and pray, if by any means they may eſcape, <hi>Act.</hi> 16.14.9, 11.</item>
+               <item>4. They are made to ſee more worth in Chriſt, then ever they ſaw before, <hi>Gal.</hi> 1.15, 16.</item>
+               <item>5. They have ſome refreſhing hopes, though a poſ<g ref="char:EOLhyphen"/>ſibility of eſcaping, <hi>Jonah.</hi> 3.9.</item>
+               <item>6. They earneſtly deſire and uſe all means to get Chriſt, <hi>Rev.</hi> 21.6.</item>
+               <item>7. They are made to ſee God's grace and good will to give Chriſt freely to them, <hi>Tit.</hi> 3.4.</item>
+               <item>8. Their hearts are melted with this grace, <hi>Lu.</hi> 7.38.</item>
+               <item>9. They are encouraged to receive Chriſt freely offered to them, 1 <hi>Tim.</hi> 1.15.</item>
+               <item>10. They are filled with love to the Lord, <hi>Jo.</hi> 21.15.</item>
+               <item>11. They can eaſily yield now to put away what's diſpleaſing, and choſe what's pleaſing to the Lord, <hi>Lu.</hi> 19.8.</item>
+               <item>12. They have an abiding bent of heart for ever to cleave to the Lord. <hi>Rom.</hi> 8.35.</item>
+            </list>
+            <p n="20">20. <hi>Q. What are the priviledges of thoſe whoſe hearts are thus ſavingly renewed?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. They are united to Chriſt, <hi>Eph.</hi> 5.30.</item>
+               <item>2. Chriſt's obedience and ſufferings are imputed to them, <hi>Rom.</hi> 5.19</item>
+               <item>3. They are juſtified from all their ſins, <hi>Rom.</hi> 8.30.</item>
+               <item>4. God is their reconciled Father, 2 <hi>Cor.</hi> 6.17, 18.</item>
+               <item>5. They have that peace the world cannot give, <hi>Jo.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</item>
+               <pb facs="tcp:152977:9"/>
+               <item>6. The H. G. is given to carry the Son in Obedi<g ref="char:EOLhyphen"/>ence, <hi>Pro.</hi> 1.23. <hi>Ezek.</hi> 36.27.</item>
+               <item>7. They ſhall never fall away, <hi>Iſa.</hi> 42.3.</item>
+               <item>8. All ſhall work together for their good, <hi>Ro.</hi> 8.28.</item>
+               <item>9. When they dye, their ſouls ſhall be carried in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Abraham</hi>'s boſom, <hi>Luk.</hi> 16.22.</item>
+               <item>10. They ſhall have a bleſſed reſurrection, <hi>Jo.</hi> 5.29.</item>
+               <item>11. They ſhall have a publick juſtification, <hi>Ma.</hi> 25.23.</item>
+               <item>12. They ſhall have eternal Salvation, <hi>Mat.</hi> 25.46.</item>
+            </list>
+            <p n="21">21. Q. <hi>What are the Miſeries of thoſe that are no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thus ſavingly renewed?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. They are Chriſt-leſs. <hi>Eph.</hi> 2.12.</item>
+               <item>2. They are not in favor with God, <hi>Eph.</hi> 2.3.</item>
+               <item>3. They have no ſure title to Salvation, <hi>Rom.</hi> 3.23.</item>
+               <item>4. They ſtand condemned by God's Law, to ever<g ref="char:EOLhyphen"/>laſting death for ſin, <hi>Ro.</hi> 5.18.</item>
+               <item>5. If they continue in that ſtate till they dye, they be irrecoverably loſt, <hi>Eccleſ.</hi> 9.10.</item>
+               <item>6. They are never to enjoy comfort more, <hi>Luk.</hi> 16.25.</item>
+               <item>7. They have loſt God for ever, 2 <hi>Theſ.</hi> 1.9.</item>
+               <item>8 They are to riſe again to everlaſting contempt, <hi>Dan.</hi> 12.2.</item>
+               <item>9 They are to be Condemned publickly at Judg<g ref="char:EOLhyphen"/>ment, <hi>Mat.</hi> 25.41.</item>
+               <item>10. They are to be carried Body and Soul into a Lake of Fire and Brimſtone with damned ſpirits, <hi>Rev.</hi> 20.15.</item>
+               <item>11 They are to live for ever in that Lake to feel their torments, <hi>Rev.</hi> 14.11.</item>
+               <item>12. Through blindneſs and falſe peace they are not
+<pb n="18" facs="tcp:152977:10"/>like to prevent their miſery, unleſs God of his infi<g ref="char:EOLhyphen"/>nite mercy beſtow grace on them, <hi>Je.</hi> 2.34. <hi>Prov.</hi> 23.34.</item>
+            </list>
+            <p n="22">22. Q. <hi>Since God only can ſavingly renew us what ſhould a poor graceleſs ſinner do to obtain it of God?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. He ſhould frequently think what a happineſs 'tis to be ſaved; what a miſery to be damned, <hi>Iſa.</hi> 52.15.</item>
+               <item>2 He ſhould ſettle it in his heart, that an unre<g ref="char:EOLhyphen"/>generate Chriſtleſs ſinner cannot enter the Kingdom of Heaven, <hi>Jo.</hi> 3.5.</item>
+               <item>3. He ſhould beware, leaſt willful unbelief, <hi>Gen.</hi> 19.14. falſe peace, <hi>Luk</hi> 17.28. Love of eaſe, <hi>Luk.</hi> 13.24. and pleaſure, 1 <hi>Tim.</hi> 5.11. Purpoſes for the fu<g ref="char:EOLhyphen"/>ture, <hi>Mat.</hi> 8.21. make him trifle away his ſeaſon and prove his bane.</item>
+               <item>4. He ſhould ſpeedily break off from bad Compa<g ref="char:EOLhyphen"/>ny, 2 <hi>Cor.</hi> 6.17. and groſs ſin, <hi>Iſa.</hi> 1.16. leaſt he provoke God never to give him grace while he lives.</item>
+               <item>5. He ſhould believe God is willing to change and ſave ſome ſinners, <hi>Jer.</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.14. having given Chriſt to dye for them, and choſen them from Eternity, <hi>Iſa.</hi> 51.11.</item>
+               <item>6. He ſhould hear, <hi>Luk.</hi> 10 39. and pray, <hi>Joel.</hi> 2.32. and read and pray, <hi>Jo.</hi> 20.31. and converſe with God's people and pray, <hi>Jo.</hi> 4.39. if by any means he might obtain of God a ſaving change.</item>
+               <item>7. He ſhould reſolutly hold on in the uſe of means, though he looſe all his Labour at laſt, <hi>Luk.</hi> 5.5.</item>
+               <item>8. He ſhould not ſuffer the affairs of the World to take him off, <hi>L<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k.</hi> 8.14. nor the delays of God.
+<pb facs="tcp:152977:10"/>1 <hi>Sam.</hi> 13.8, 9. nor renewed ſins, <hi>Pſa.</hi> 147 11. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the temptations of the Devil, <hi>Mat.</hi> 12.43. nor <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſcoffs of the Wicked, <hi>Jo.</hi> 12.43. nor the unkindneſſ of the godly, <hi>Pſal</hi> 55.13. nor the impatience of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Fleſh, <hi>Lam.</hi> 3.26. to diſcourage him in his pur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of grace</item>
+               <item>9 When Gods Spirit diſcovers Wrath, he ſho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> willingly and patiently yield to the Conviction to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> prepared thereby to welcome Grace, <hi>Rom.</hi> 8.15.</item>
+               <item>10 He ſhould let every little glimpſe of men<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cheriſh hope ſtill, ſtill, to wait on God, <hi>Jud.</hi> 13.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Lam.</hi> 3.22.</item>
+               <item>11 He ſhould not account himſelf ſavingly chan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed, till he is made to take his greateſt content in G<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>Pſal.</hi> 73 25. and Chriſt <hi>Phil.</hi> 3.8. and holineſs <hi>Pſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 2. <hi>Jer.</hi> 6.10.</item>
+               <item>12 He ſhould truſt in the name of the Lord, <hi>Iſa.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.10. and frequently caſt himſelf on the merits <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chriſts Blood, <hi>Heb.</hi> 6.18. though he periſh, if were poſſible, when he hath done.</item>
+            </list>
+            <p n="23">23 Q. <hi>What's to be done before hearing the W<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to profit by it?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. We are to have Faith in God's Ordinan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Iſa.</hi> 55.10. <hi>Rom.</hi> 1.16.</item>
+               <item>2. We ſhould acquaint our ſelves with our ſpi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tual ſtate, <hi>Jam.</hi> 4.6.</item>
+               <item>3 We ſhould put away all ſin from us, 1 <hi>Pet.</hi> 1, 2.</item>
+               <item>4 We ſhould pray for a ſuitable Word, and bleſſing on the Miniſter, and on out ſelves, <hi>Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 2.3.</item>
+            </list>
+            <p n="24">
+               <pb facs="tcp:152977:11"/>
+24. Q. <hi>What's to be done in Hearing?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> We ought to be reverent as before God, <hi>Act.</hi> 10 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>2. We ought to apply the Word to our ſelves, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 40.7.</item>
+               <item>3. We ſhould watch againſt wandrings, <hi>Iſa.</hi> 55.2.</item>
+               <item>4. We ſhould have ſhort ejaculations towards God <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>bleſs this, and that Word to us, <hi>Pſal.</hi> 119.10, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</item>
+            </list>
+            <p n="25">25. Q. <hi>Whats to be done after Hearing?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. We ſhould reflect upon our miſcarriages, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 1.5.</item>
+               <item>2 We ſhould recal what we heard and did affect us, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>k</hi> 8.12. <hi>Heb.</hi> 2.1.</item>
+               <item>3. We ſhould obſerve how the Word ſuits with <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>od's Providence in the courſe of our Lives, <hi>Pſa.</hi> 73. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</item>
+               <item>4. We ſhould immediatly put the Word in pra<g ref="char:EOLhyphen"/>ctice, <hi>Gen.</hi> 21.14. <hi>Pſal.</hi> 119.60.</item>
+            </list>
+            <p n="26">26 Q. <hi>How ſhould we read the Word of God to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ofit by its?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. We are to read often at leaſt once a day, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eut.</hi> 17.19.</item>
+               <item>2. Before Reading we ſhould look up to God for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bleſſing, <hi>Mar.</hi> 8.6.</item>
+               <item>3. In Reading we ſhould keep a depending Eye on <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>od for enlightning, <hi>Pſal.</hi> 119.12.</item>
+               <item>4 We ſhould conſider what goes before, and what <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lows that we may underſtand, <hi>Mat.</hi> 24.15.</item>
+               <item>5 We ſhould Read believingly, as the Word of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>od, <hi>Rev.</hi> 19.9.</item>
+               <pb facs="tcp:152977:11"/>
+               <item>6 We ſhould fix one or two things which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> affect us, <hi>Pſa.</hi> 119, 11.</item>
+               <item>7 We ſhould have an high eſteem of it, <hi>Pſa</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 10.</item>
+               <item>8 We ſhould oft think of it in the buſineſs of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> day, <hi>Pſa.</hi> 119.97.</item>
+               <item>9. We ſhould live ſuitable to it, <hi>Pſal.</hi> 119.59.</item>
+            </list>
+            <p n="27">27 Q. Are the Children of Believers now exter<g ref="char:EOLhyphen"/>nally in the Covenant with God, as the children <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Iſraelites</hi> were of old?</p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1 Yes, 1. Believers are the engrafted memb<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of that Body of people whoſe Children were ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ken into Covenant, <hi>Rom.</hi> 11.17. <hi>Eph.</hi> 2.14, 15, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Ro.</hi> 12.4. 1 <hi>Cor.</hi> 12.12.</item>
+               <item>2 Believers are children of the Promiſe as <hi>Iſa</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was, <hi>Gal.</hi> 4.28.</item>
+               <item>3. The Goſpel is for taking in all thoſe that w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not received before, <hi>Ro.</hi> 9.25. Therefore not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> excluding the children of believers, who were taken <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> before.</item>
+               <item>4 The Kingdom of Heaven the higheſt bleſſing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Covenant belongs to the children of believe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Mat.</hi> 19.14.</item>
+               <item>5. The children of Believers are called Ho<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 1 <hi>Cor.</hi> 7.14. as by reaſon of the Covenant, the Peo<g ref="char:EOLhyphen"/>ple of <hi>Iſrael</hi> were ſo called heretofore, <hi>Deut.</hi> 14.1, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</item>
+               <item>6 It is expreſly ſaid, the Promiſe doth belong <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Children, <hi>Act.</hi> 2.38, 39.</item>
+               <item>7 If the children of Believers were utterly ex<g ref="char:EOLhyphen"/>cluded from God's Covenant then not having do<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> any actual evil themſelves, the children of believing
+<pb facs="tcp:152977:12"/>
+                  <hi>Jews</hi> were looſers by Chriſt's Death, and by their Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s Faith; there would be no difference between <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y Believers children, and the children of Infidels, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere would be no hope of the Salvation of any of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em dying in Infancy, <hi>Eph.</hi> 2.12.</item>
+               <item>8 So extenſive and free is Gods grace, that, as of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d a Proſel<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s child, and ſervant, and ſervants child <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as taken into Covenant with God, as well as himſelf, <hi>Exod.</hi> 12.48. ſo now a believers Child and Servant <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Servants Child, even all within his Family are <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ken into Covenant with God, on the believers ac<g ref="char:EOLhyphen"/>count, becauſe he is a Child of <hi>Abraham.</hi> Luk. 19.9.</item>
+            </list>
+            <p n="28">28 Q. <hi>What advantage is it to be externally in Ce<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nant with God?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A</hi> The ſame that it was to the <hi>Jews</hi> of old. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Though thoſe who are not by means of believ<g ref="char:EOLhyphen"/>ing Parents thus in Covenant, are not to diſpair, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ct.</hi> 10.34. <hi>Iſa.</hi> 56.6. <hi>Gen.</hi> 22.18.</item>
+               <item>2 And all are not Infallibly ſaved who are thus in <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ovenant with God, <hi>Mat.</hi> 8.12. <hi>Deut.</hi> 29.4. <hi>Gen.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 10.25.25. <hi>Rom.</hi> 11.20.</item>
+               <item>3 Yet ſuch are more nearly related to God then <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e reſt of the World, <hi>Ezek.</hi> 16.8. <hi>Mat.</hi> 8.12. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 1.2. <hi>Rom.</hi> 9.4. <hi>Lev.</hi> 25.42.</item>
+               <item>4 If they dye in Infancy there is more hope of their Salvation then of others ſo dying, <hi>Eph.</hi> 2.12. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 112.2. <hi>Exod.</hi> 20.6. <hi>Gen.</hi> 19.24. 1 <hi>Sam.</hi> 15.3.</item>
+               <item>5. If they live and are wicked, there is greater <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e of their converſion, then of other wicked men, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Chron.</hi> 32.33.33.12.</item>
+               <item>6 They have greater encouragement to ſeek God
+<pb facs="tcp:152977:12"/>in all their wants, <hi>Deut.</hi> 4.7. <hi>Hoſ.</hi> 12.6.</item>
+               <item>7. They may plead in their Parents right, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they doubt of their own, <hi>Gen.</hi> 32.9.</item>
+               <item>8. They will have greater cauſe to honour their Parents when they ſee bleſſings by means of them de<g ref="char:EOLhyphen"/>rived to them, <hi>Pſa.</hi> 116.16. <hi>Exod.</hi> 15.2. <hi>Pro.</hi> 17.6.</item>
+               <item>9. This is a greater encouragement to their Pa<g ref="char:EOLhyphen"/>rents to pray for them, <hi>Gen.</hi> 17.18. and give the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a good Education, <hi>Gen.</hi> 18.19.</item>
+               <item>10. This lays an obligation on others to deal kind<g ref="char:EOLhyphen"/>ly with them, <hi>Gen.</hi> 25.41.42. 2 <hi>Sam.</hi> 19.1.</item>
+               <item>11. This lays a great obligation on them to devo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> themſelves to the Lord, <hi>Pſal.</hi> 116.16. to ſerve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord, <hi>Acts</hi> 24.14. <hi>Levit.</hi> 25.42. and live holily<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Deut.</hi> 7.6. and make ſure of Salvation, <hi>Mat.</hi> 8.12. to love God like children, <hi>Rom.</hi> 9.4. to make Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their refuge in all their ſtreights, <hi>Deut.</hi> 4.7. and t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Repent when they have ſinned againſt him, <hi>Hoſ.</hi> 12.6.</item>
+               <item>12. And thoſe who are thus in covenant with God though Infants, are to be baptiſed.
+<list>
+                     <item>1. Becauſe God vouchſafed to his Church the pri<g ref="char:EOLhyphen"/>viledge of confirming his Covenant, by applying the initiating Seal thereof to the Children of believers <hi>Gen.</hi> 17.10. and never repealed it.</item>
+                     <item>2. This confirmation of the Covenant by the in<g ref="char:EOLhyphen"/>itiating ſeal did belong to the children of the Myſtical ſeed of <hi>Abraham,</hi> though they were not his natural ſeed, <hi>Exod.</hi> 12.48.</item>
+                     <item>3 Children being in Covenant, there is the ſame
+<pb facs="tcp:152977:13"/>reaſon why they ſhould be baptized, as there is, why their believing penitent Parents ſhould, <hi>Act.</hi> 2.38.39.</item>
+                     <item>4. The Goſpel-initiating ſeal being a Badge of the Lords people, and a further Obligation of them to be his. Believing Parents by their own Covenant with God are bound to apply it to their Children, <hi>Gen.</hi> 17.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0. as by the fourth Commandment they are bound <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o cauſe them, when grown up, to ſanctifie the <hi>Chriſti<g ref="char:EOLhyphen"/>an-Sabbath;</hi> and as by the ſecond they are bound to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ee them attend on other parts of the Goſpel-Inſtitu<g ref="char:EOLhyphen"/>ted Worſhip.</item>
+                     <item>3 When the <hi>Jews</hi> ſhall be Converted, the initiating <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>al in force, is to be applyed to their children, as heretofore, <hi>Rom.</hi> 11.24. <hi>Ezek.</hi> 47.13, 14.36.10, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</item>
+                     <item>6 Baptiſm being a means of partaking the ſpecial <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eſſings of the Covenant, Regeneration, <hi>Tit.</hi> 3.5. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>doption, <hi>Gal.</hi> 3.26.27. Sanctification, <hi>Col.</hi> 2.11, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. <hi>Eph.</hi> 5.26. the waſhing away of Sin by Chriſts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ood, <hi>Act.</hi> 22.16. and Salvation, <hi>Mar.</hi> 16.16. the children of believers needing all this, and being as papable of baptiſm as heretofore of Circumciſion, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e not to be debarred from the Ordinance.</item>
+                     <item>7 It is a dangerous thing to keep from the Initia<g ref="char:EOLhyphen"/>ting ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l of the Covenant, <hi>Gen.</hi> 17.14. <hi>Exod.</hi> 4.24. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</item>
+                  </list>
+               </item>
+            </list>
+            <p n="29">29. Q. <hi>What is to be done before Receiving the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rds Supper?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. We muſt ſee we be in charity with all, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at.</hi> 5.23.</item>
+               <item>2 We muſt ſearch to find out our graces and our
+<pb n="25" facs="tcp:152977:13"/>ſins, 1. <hi>Cor.</hi> 11.28.</item>
+               <item>3 We muſt judge our ſelves for ſin, 1 <hi>Cor.</hi> 11.31. and cry to the Lord to obtain forgiveneſs through Chriſt's blood, <hi>Jer.</hi> 29.13.</item>
+               <item>4 VVe muſt reſolutly put away our ſins, <hi>Ezr.</hi> 6.21. 1 <hi>Cor.</hi> 5.8.</item>
+               <item>5 VVe muſt ſtir up our ſelves unto better obedi<g ref="char:EOLhyphen"/>ence, <hi>Jer.</hi> 7.5.</item>
+               <item>6 VVe muſt get a ſence of our particular wants, <hi>Luk.</hi> 18.41.</item>
+               <item>7 VVe muſt get hungrings after Chriſt, <hi>Rev.</hi> 21.6.</item>
+               <item>8 VVe muſt come with humility, <hi>Pſa.</hi> 22.26.</item>
+               <item>9 VVe muſt come with expectation, <hi>Act.</hi> 3.5. <hi>Heb.</hi> 11.6.</item>
+               <item>10 VVe muſt be ſure that our ends be good.</item>
+            </list>
+            <p n="30">30 Q. <hi>What ſhould our ends be in receiving the Lords Supper?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not to approve our ſelves to men. But,</p>
+            <list>
+               <item>1 To obey Chriſt, <hi>Luk.</hi> 22.19.</item>
+               <item>2 To profeſs Chriſt, 1 <hi>Cor.</hi> 11.26.</item>
+               <item>3 To keep up remembrance of Chriſt, 1 <hi>Cor.</hi> 11.24.</item>
+               <item>4 To receive Chriſt, <hi>Mat.</hi> 26.26.</item>
+               <item>5. To get nearer Communion and fellowſhip with Chriſt, 1 <hi>Cor.</hi> 10.16.</item>
+               <item>6 To unite our hearts to one another, 1 <hi>Cor.</hi> 12.13.</item>
+               <item>7. To engage our hearts to live to Chriſt, 1 <hi>Cor.</hi> 10.21.</item>
+               <item>8. To get ſpiritual ſtrength to live our engagement, 1 <hi>Cor.</hi> 10.16.11.29.</item>
+               <pb n="26" facs="tcp:152977:14"/>
+               <item>9. To confirm our faith touching Gods Covenant and pardon of ſin, <hi>Mat.</hi> 26.28.</item>
+            </list>
+            <p n="31">31 Q. <hi>What is to be done in receiving?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. VVe are to approach with an humble ſenſe of our unworthineſs.</item>
+               <item>2 VVe are to exerciſe Repentance, Faith and Love.</item>
+               <item>3 VVe are to ſend up often Ejaculations heaven<g ref="char:EOLhyphen"/>ward.</item>
+               <item>4 VVe are carefully to avoid all diſtractions.</item>
+               <item>5 VVe are diligently to obſerve the Sacramental Actions.</item>
+               <item>6 VVe are reverently to engage our hearts to live to Chriſt</item>
+               <item>7. VVe are to remember Chriſt.</item>
+            </list>
+            <p n="32">32 Q. <hi>What are the Sacramental Actions, and and their</hi> ſignification?</p>
+            <list>
+               <item>A. 1. The Miniſters Bleſſing, ſignifies the Fathers ſending Chriſt in the fullneſs of time to perform the VVork of our Redemption.</item>
+               <item>2 His breaking the Bread ſignifies the breaking of Chriſts body, and ſhedding of his Blood.</item>
+               <item>3 His giving, ſignifies Chriſts giving himſelf to the receivers if they accept of him, and live to him.</item>
+               <item>4. The Peoples taking ſignifies their taking Chriſt to be their Saviour, and binding themſelves to live to him.</item>
+               <item>5 Their Eating and Drinking ſignifies their full and ſweet enjoyment of Chriſt, by Faith, as the bread of their lives.</item>
+            </list>
+            <p n="33">33. Q. <hi>What is to be done after receiving?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. VVe ſhould reflect upon our failings and
+<pb n="27" facs="tcp:152977:14"/>caſt our ſelves on the Lords grace, and Chriſts metits for pardon, 2 <hi>Sam.</hi> 23.15.</item>
+               <item>2 We ſhould not reſt in the work done, but keep a depending eye on the Lords Grace for a bleſſing. <hi>Gen.</hi> 49.18.</item>
+               <item>3 Under doubts, <hi>Judg.</hi> 7.10.13, 14, 15. Temp<g ref="char:EOLhyphen"/>tations, 2 <hi>Cor.</hi> 5.15. Fals, <hi>Pſa.</hi> 89.34. and variety of Providences we ſhould reflect on the Sacrament and improve it for our Spiritual ſtrength and comfort.</item>
+               <item>4. We ſhould ſtudy which way beſt to expreſs our Love to Chriſt, <hi>Pſal.</hi> 116.11.</item>
+            </list>
+            <p n="34">34. <hi>Which way ſhould we beſt expreſs our, Love to Chriſt.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. By remembring Chriſt, 2. <hi>Tim.</hi> 2.8.</item>
+               <item>2. By labouring for aſſurance of Faith, that Chriſt is ours, <hi>Phil.</hi> 3.10.</item>
+               <item>3. By keeping up an high eſteem of Chriſt, <hi>Cant.</hi> 5.16.</item>
+               <item>4. By maintaining communion with Chriſt, <hi>Jo.</hi> 15.4.</item>
+               <item>5. By living by Faith on Chriſt for acceptance, and ſtrength, <hi>Iſa.</hi> 45.24.</item>
+               <item>6. By not grudging Chriſt the performance of du<g ref="char:EOLhyphen"/>ty againſt ſloathful ſelf, <hi>Deut.</hi> 10.12.</item>
+               <item>7 By not being aſhamed to own Chriſt, 2 <hi>Cor.</hi> 4.13.</item>
+               <item>8 By not thinking much to ſuffer for Chriſt, <hi>Act.</hi> 20 24.</item>
+               <item>9 By loving one another, <hi>Jo.</hi> 15.12.</item>
+               <item>10 By being ſtedfaſt in Covenant, <hi>Pſal.</hi> 16.12, 14.</item>
+            </list>
+            <p n="35">35 Q. <hi>How ſhould we pray that God might hear and accept of us?</hi>
+            </p>
+            <pb n="28" facs="tcp:152977:15"/>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. Not raſhly, <hi>Eccl,</hi> 5.2.</item>
+               <item>2. Nor impenitently, <hi>Prev.</hi> 28.9.</item>
+               <item>3. Nor in malice, <hi>Mat.</hi> 5.23.</item>
+               <item>4. Nor in Unbelief, <hi>Ja.</hi> 1.6.
+<list>
+                     <item>But 1. In Humility, <hi>Pſa.</hi> 34.18.</item>
+                     <item>2. In Sincerity, <hi>Pſa.</hi> 145.18.</item>
+                     <item>3. In Faith, <hi>Mark</hi> 11.24.</item>
+                     <item>4. With Fervency, <hi>Ja.</hi> 5.16.</item>
+                  </list>
+               </item>
+               <item>5. With dependance on Chriſt's Spirit for aſſi<g ref="char:EOLhyphen"/>ſtance, <hi>Rom.</hi> 8.26.</item>
+               <item>6 VVith dependance on Chriſt's Merits for Ac<g ref="char:EOLhyphen"/>ceptance, <hi>Jo.</hi> 16.23.</item>
+            </list>
+            <p n="1">1. VVith Perſeverance, <hi>Luk.</hi> 18.5, 7.</p>
+            <p n="36">36. Q. <hi>How ſhould we enlarge our ſelves in Prayer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the ſtrength of the H. G. we may enlarge after this manner.</p>
+            <list>
+               <item>1 For our ſin.
+<list>
+                     <item>1. VVe may confeſs our Fall, and the corruption of our Nature, in the whole man.</item>
+                     <item>2. Then the good we have left undone.</item>
+                     <item>3 Then the evil Thoughts, VVords, and Deeds we have done againſt the Law, and Goſpel.</item>
+                     <item>4 Then we may bewail the greatneſs of our ſins, as committed knowingly, willingly, frequently, againſt all the Attributes of God, Death of Chriſt, and Mo<g ref="char:EOLhyphen"/>tions of the Holy Spirit.</item>
+                     <item>5. Then we may acknowledge the dueneſs of Cor<g ref="char:EOLhyphen"/>poral, Spiritual, and Eternal puniſhment, Judging our ſelves.</item>
+                     <item>6 Then we may bleſs God that Sentence is not Ex<g ref="char:EOLhyphen"/>ecuted, and that mercy is to be had in Chriſt.</item>
+                  </list>
+               </item>
+               <pb n="29" facs="tcp:152977:15"/>
+               <item>2. For our wants.
+<list>
+                     <item>1 VVe may intreat that God would not puniſh, but pardon us through Chriſt's ſufferings, humbly and thankfully applying Chriſt and the Promiſes.</item>
+                     <item>2 Then that God would Sanctifie us, ſubduingſin, beſtowing Grace, Repentance, Faith, and Love.</item>
+                     <item>3. Then that God would manifeſt Reconciliation to us.</item>
+                     <item>4. Then that he would follow us with his quick<g ref="char:EOLhyphen"/>ening Spirit, to overcome our ſpiritual Enemies, do his will in all things, and grow in grace.</item>
+                     <item>5. Then that God would Sanctifie Mercies, and Afflictions to us, and bleſs us in the outward Man.</item>
+                     <item>6 Then that God would bleſs his Church, his afflicted People, our Governours, Friends, and Ene<g ref="char:EOLhyphen"/>mies</item>
+                  </list>
+               </item>
+               <item>3. <hi>For our Bleſſings.</hi>
+                  <list>
+                     <item>1. VVe may praiſe God for our temporal bleſſings, our Being, Limbs, Health, Peace, Protection, Proviſion.</item>
+                     <item>2 Then for ſpiritual bleſſings; that there is an Ele<g ref="char:EOLhyphen"/>ction, that Chriſt is given for us, that we have the Goſ<g ref="char:EOLhyphen"/>pel, that he hath given us Faith and Holineſs, if we be ſure of it.</item>
+                     <item>3 Then for any extraordinary, or new Mercy.</item>
+                     <item>4 Then we may acknowledge the greatneſs of our bleſſings, from Gods greatneſs, our unworthineſs, and need.</item>
+                     <item>5. Then we may engage our ſelves to live his praiſe, commending our ſelves to his Grace for aid.</item>
+                  </list>
+               </item>
+            </list>
+            <p n="37">37 Q. <hi>What further Rules may be given to help us in the uſe of this method.</hi>
+            </p>
+            <pb n="30" facs="tcp:152977:16"/>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. We may premeditate of our Sins, Bleſſings, and Wants according to this Method.</item>
+               <item>2. What paſſages of the Word, or providence do affect us, we may, in our thoughts, add them to that part of this Me<g ref="char:EOLhyphen"/>thod which is proper for them to keep furniſhed for Prayer.</item>
+               <item>3. Before Prayer it is needful to get our hearts affected with God's Majeſty, and Grace; one Sin, one Want, one Bleſſing at leaſt.</item>
+               <item>4. We ſhould not be over-careful for expreſſions.</item>
+               <item>5 We ſhould not covet to go on faſter than the aſſiſtance of God's Spirit depended on doth carry us.</item>
+               <item>6. We need not tye our ſelves to every part of this, or any other Method; but contract or add, as we find our hearts may be inclined</item>
+               <item>7. We muſt not covet to be over-long.</item>
+               <item>8. Practiſeing firſt in private, we ſhall the better carry it on with others.</item>
+            </list>
+            <p n="38">38. Q. <hi>What is the happineſs of Heaven?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. There is no ſin, <hi>Pſal.</hi> 130.8. Nor ſorrow, <hi>Rev.</hi> 22.3.</item>
+               <item>2. There is perfection of Holineſs.</item>
+               <item>3. There is the ſociety of Angels, and glorified Saints, <hi>Re.</hi> 5.11.</item>
+               <item>4. There is the glorified perſon of Chriſt, <hi>Pb.</hi> 2.9.</item>
+               <item>5. There is the glorious Viſion of God, 1 <hi>Cor.</hi> 13.12.</item>
+               <item>6. There are unwearied praiſes, <hi>Rev.</hi> 4.8.</item>
+               <item>7. There is raviſhing love and joy, <hi>Iſa.</hi> 51.11.</item>
+               <item>8. There Chriſts Glory will ſhine wonderfully in making finners ſo happy, 2 <hi>Theſ.</hi> 1.10</item>
+               <item>9. God will take delight in his Redeemed ones, as well as they in him, <hi>Zeph.</hi> 3.17.</item>
+               <item>10. All this will laſt for ever, <hi>Rev.</hi> 3.12. <hi>Mat.</hi> 25.46.</item>
+            </list>
+            <p n="39">39. Q. <hi>What are the miſeries of Hell?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. They are expreſt by a bottomleſs pit, <hi>Rev.</hi> 20.3.</item>
+               <item>2. By utter darkneſs, <hi>Mat.</hi> 25.30.</item>
+               <item>3. By cutting aſunder, <hi>Mat.</hi> 24.51.</item>
+               <item>4. By binding hand and foot, <hi>Mat.</hi> 22.33.</item>
+               <item>5. By a Worm that never dyes, <hi>Mar.</hi> 9.44.</item>
+               <item>6 By a Lake of Fire and Brimſtone, <hi>Rev</hi> 20.10.</item>
+               <item>7. There all Earthly pleaſures are at an end, <hi>Luk.</hi> 16.25.7.</item>
+               <item>8. There Heavens Glory is loſt irrecoverably, <hi>Luk.</hi> 16.26.</item>
+               <pb n="31" facs="tcp:152977:16"/>
+               <item>9. There is the company of Damned ſpirits, <hi>Mat.</hi> 25.41.</item>
+               <item>10. There the whole body, and the whole ſoul is tormented.</item>
+               <item>11. There is tormenting night and day without Intermiſſi<g ref="char:EOLhyphen"/>on, <hi>Rev.</hi> 14.11.</item>
+               <item>12. There is no Dying, <hi>Rev.</hi> 9 6.</item>
+               <item>13. There is no end of the Torment, <hi>Mat.</hi> 25.46.</item>
+               <item>14. Ther's no pity, God himſelf laughs at all this, <hi>Pr.</hi> 1.24.26.</item>
+               <item>15. There is the height of ſin, every mouth Blaſpheming God, <hi>Rev.</hi> 16.11.</item>
+            </list>
+            <p n="40">40. Q <hi>What will be the proceedings of the day of Judgment?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. Chriſt will come in the Clouds, <hi>Rev.</hi> 1.7.</item>
+               <item>2. The Trumpet will ſound, 1 <hi>Cor.</hi> 15.51.</item>
+               <item>3. The dead will be raiſed, 1 <hi>Cor.</hi> 15.51.</item>
+               <item>4. All will be cited before him, <hi>Joel,</hi> 3.2.</item>
+               <item>5. The Sheep will be ſeparated from the Goats, <hi>Mat.</hi> 25.32</item>
+               <item>6. Every mans actions will be tryed, 2 <hi>Cor.</hi> 5.10.</item>
+               <item>7. The ſentence will be paſſed, <hi>Mat.</hi> 25.34, 41.</item>
+               <item>8. Execution will cloſe up the day, <hi>Mat.</hi> 25.46.</item>
+            </list>
+            <p n="41">41. Q. <hi>How ſhould we make ſure of Gods acceptation againſt that day?</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>A.</hi> 1. We muſt judge our ſelves, 1 <hi>Cor.</hi> 11.31.</item>
+               <item>2. We muſt flye to Chriſt by Faith, 1 <hi>Theſ.</hi> 1.10.</item>
+               <item>3. We muſt put away ſin, 2 <hi>Pet.</hi> 3.14. eſpecially Cenſo<g ref="char:EOLhyphen"/>riouſneſs, <hi>Mat,</hi> 7.2. Immoderate care and Intemperateneſs, <hi>Luk.</hi> 21.34. and all degrees of Revenge. <hi>Ja.</hi> 5.9.</item>
+               <item>4. We muſt cheriſh a ſilial fear of God, <hi>Prov.</hi> 14.26.</item>
+               <item>5. We muſt improve our Talents, <hi>Mat</hi> 25.21.</item>
+               <item>6. We muſt appear for Chriſt, <hi>Mat.</hi> 10.32.</item>
+               <item>7. We muſt watch and pray, <hi>Luk.</hi> 21.36.</item>
+               <item>8. And ſo love the appearing of Chriſt, 2 <hi>Tim.</hi> 4.8.</item>
+            </list>
+            <div type="section">
+               <head>The Creed.</head>
+               <p>
+                  <hi>I</hi> Believe in God, the Father Almighty maker of Heaven and Earth; and in Jeſus Chriſt his only Son, our Lord, which was conceived by the Holy Ghoſt, born of the Virgin <hi>Mary,</hi> ſuffered under <hi>Pontius Pilate,</hi> was Crucified, Dead, and Buried;<note place="margin">Continued in the ſtate of the Dead.</note> he deſcended into Hell, the Third day he roſe again from the Dead, he aſcended into Heaven, and ſiteth on the right hand of God the Father, Al<g ref="char:EOLhyphen"/>mighty,
+<pb n="32" facs="tcp:152977:17"/>from thence he ſhall come to judge the quick and the dead.</p>
+               <p>I Believe in the Holy Ghoſt, the Holy Catholick Church, the Communion of Saints, the forgivneſs of Sins, the Reſurrection of the Body, and the Life everlaſting. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The Ten Commandments. <hi>Exod.</hi> 20.</head>
+               <p>GOD ſpake all theſe words, ſaying I am the Lord thy God which have brought thee out of the Land of <hi>Egypt,</hi> out of the Houſe of Bondage.</p>
+               <list>
+                  <item>
+                     <hi>1.</hi> Thou ſhalt have no other Gods before me.</item>
+                  <item>
+                     <hi>2.</hi> Thou ſhalt not make unto thy ſelf any graven Image, or any like<g ref="char:EOLhyphen"/>neſs of any thing that is in Heaven above, or that is in the Earth be<g ref="char:EOLhyphen"/>neath, or that is in the Water under the Earth; Thou ſhalt not bow down thy ſelf to them, nor ſerve them; for I the Lord thy God am a jealous God, viſiting the iniquity of the Fathers upon the Chil<g ref="char:EOLhyphen"/>dren unto the Third and Fourth Generation of them that hate me, and ſhewing mercy unto thouſands of them that love me and keep my Commandments.</item>
+                  <item>
+                     <hi>3</hi> Thou ſhalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltleſs that taketh his name in vain.</item>
+                  <item>
+                     <hi>4.</hi> Remember the Sabbath day to keep it holy; ſix days ſhalt thou labour and no all thy Work; but the ſeventh day is the Sabbath of the Lord thy God; in it thou ſhalt do no manner of Work, thou, not thy Son, nor thy Daughter thy Man-ſervant, nor thy Maid-ſervant, nor thy Cattle, nor thy ſtranger that is with in thy Gates; for in ſix days the Lord made Heaven and Earth the Sea, and all that in them is, and reſted the ſeventh day, wherefore the Lord bleſſed the ſab<g ref="char:EOLhyphen"/>bath-day, and hallowed it.</item>
+                  <item>
+                     <hi>5.</hi> Honour thy Father and thy Mother that thy days may be long upon the Land which the Lord thy God giveth thee.</item>
+                  <item>
+                     <hi>6.</hi> Thou ſhalt not kill.</item>
+                  <item>
+                     <hi>7.</hi> Thou ſhalt not commit Adultery.</item>
+                  <item>
+                     <hi>8.</hi> Thou ſhalt not ſteal.</item>
+                  <item>
+                     <hi>9.</hi> Thou ſhalt not bear falſe Witneſs againſt thy Neighbour.</item>
+                  <item>
+                     <hi>10.</hi> Thou ſhalt not Covet thy Neighbours Houſe, thou ſhalt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> covet thy Neighbours Wife, nor his Man ſervant, nor his Maid <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>vant, nor his Ox, nor his Aſs, nor any thing that is thy Neighbours.</item>
+               </list>
+            </div>
+            <div type="prayer">
+               <head>The Lord's Prayer.</head>
+               <p>OUr Father which art in Heaven hollowed be thy Name, thy Kingdom come, thy will be done in Earth, <hi>&amp;c.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
